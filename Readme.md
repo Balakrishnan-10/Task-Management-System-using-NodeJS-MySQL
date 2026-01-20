@@ -5,7 +5,10 @@ This project supports **Admin** and **User** roles with secure task assignment, 
 
 ---
 ## Base URL : http://localhost:5000/
-## Host URL :
+
+## Railway Host URL : https://task-management-system-using-nodejs-mysql-production.up.railway.app/
+
+## API Documentatioin URL : https://app.swaggerhub.com/apis/ask-56f/task-management-system-api/1.0.0 
 
 ## 🚀 Features
 
